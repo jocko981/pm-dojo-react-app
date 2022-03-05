@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Check it out Live at: https://pm-dojo.web.app/ or at https://pm-dojo.firebaseapp.com/login
+Check it out Live at: https://pm-dojo.firebaseapp.com/login or at https://pm-dojo.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
