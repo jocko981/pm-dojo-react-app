@@ -5,8 +5,8 @@ import { useLogin } from "../../hooks/useLogin";
 import "./Login.css";
 
 export default function Login() {
-    const [email, setEmail] = useState("")
-    const [password, setPassword] = useState("")
+    const [email, setEmail] = useState("test@test.com")
+    const [password, setPassword] = useState("test123")
     const { login, isPending, error } = useLogin()
 
     const handleSubmit = (e) => {
